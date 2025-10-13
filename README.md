@@ -123,7 +123,7 @@ while (n != 5):
 	time.sleep(2)
 	os.system('clear')
 	
-if (n==5):
+if (n==5):<br>
 	print('thank you')
 
 
