@@ -124,6 +124,6 @@ while (n != 5):
 	os.system('clear')
 	
 if (n==5):<br>
-<hr>	print('thank you')
+    print('thank you')
 
 
