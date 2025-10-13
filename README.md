@@ -1,7 +1,7 @@
 # Menu-program-
 #hello
 
-import time
+import time<br>
 import os
 
 def prime (a):
