@@ -2,7 +2,7 @@
 #hello
 
 import time <br>
-<p>    import os<p/>
+import os
 
 def prime (a):<br>
 	fac = 0 <br>
