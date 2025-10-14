@@ -5,6 +5,7 @@ import time <br>
 import os
 
 def prime (a):<br>
+
 	fac = 0 <br>
 	for i in range(1, a +1):<br>
 		 if (a%i == 0): 		
