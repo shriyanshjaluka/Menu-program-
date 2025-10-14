@@ -1,13 +1,16 @@
 # Menu-program-
 #hello
 
-import time <br>
+import time
+
 import os
 
-def prime (a):<br>
+#prime number 
 
-	fac = 0 <br>
-	for i in range(1, a +1):<br>
+def prime (a):
+
+	fac = 0 
+	for i in range(1, a +1):
 		 if (a%i == 0): 		
 		 	fac+=1
 
@@ -124,7 +127,7 @@ while (n != 5):
 	time.sleep(2)
 	os.system('clear')
 	
-if (n==5):<br>
+if (n==5):
     print('thank you')
 
 
