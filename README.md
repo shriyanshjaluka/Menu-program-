@@ -7,7 +7,7 @@ import os
 
 #prime number 
 
-    def prime (a):
+def prime (a):
 
 	fac = 0 
 	for i in range(1, a +1):
